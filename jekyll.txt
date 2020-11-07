@@ -1,0 +1,7 @@
+# go to home dir of repo
+# initiate jekyll project
+# force uption is needed because folder is not entirely empty
+jekyll new . --force
+
+bundle exec jekyll serve --livereload
+
