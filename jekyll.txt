@@ -12,3 +12,23 @@ bundle update
 bundle update github-pages
 bundle install
 
+# find minima files at
+cd ~/gems/gems/minima-2.5.1/
+
+
+
+# supported github pages jekyll themes
+https://pages.github.com/themes/
+https://github.com/pages-themes
+
+# supported github pages jekyll plugins
+https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages-and-jekyll#plugins
+
+# more jekyll themes
+https://jekyllrb.com/docs/themes/
+
+# Use any theme with Github Pages
+https://github.blog/2017-11-29-use-any-theme-with-github-pages/
+
+# overriding theme defaults:
+https://jekyllrb.com/docs/themes/#overriding-theme-defaults
