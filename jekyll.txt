@@ -3,5 +3,12 @@
 # force uption is needed because folder is not entirely empty
 jekyll new . --force
 
+# run local webpage
 bundle exec jekyll serve --livereload
+
+# see 'Gemfile'
+# or https://www.youtube.com/watch?v=EmSrQCDsMv4 at 10:40
+bundle update
+bundle update github-pages
+bundle install
 
