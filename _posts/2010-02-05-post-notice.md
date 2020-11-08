@@ -3,8 +3,7 @@ title: "Post: Notice"
 categories:
   - blog
 tags:
-  - Post Formats
-  - notice
+  - starter
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
