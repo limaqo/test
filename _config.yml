@@ -35,6 +35,7 @@ github_username:  limaqo
 # https://github.com/mmistakes/minimal-mistakes/releases/tag/4.21.0
 # released 02.11.2020
 remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+github: [metadata]
 #--- end of added
 plugins:
   - jekyll-feed
