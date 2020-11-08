@@ -24,6 +24,12 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 
+# url, baseurl, repository according to
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-url
+url: "https://limaqo.github.io"
+baseurl: "/test"
+repository: "limaqo/test"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
