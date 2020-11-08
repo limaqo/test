@@ -1,4 +1,6 @@
 main:
+  - title: "Navigation"
+    url: /navigation/
   - title: "Years"
     url: /years/
   - title: "Categories"
@@ -7,3 +9,17 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+docs:
+  - title: "Playing on Linux"
+    children:
+      - title: "Proton via Steam"
+        url: /proton-via-steam
+      - title: "Lutris"
+        url: /lutris
+      - title: "Wine"
+        url: /wine
+  - title: "Kubuntu setup"
+    children:
+      - title: "Installation"
+        url: /kubuntu-setup
