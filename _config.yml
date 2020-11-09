@@ -70,7 +70,7 @@ plugins:
 
 author:
   name     : "Marco Lisicki"
-  avatar   : "/assets/images/bio-photo.jpg"
+  avatar   : "/assets/images/avatar.jpg"
   bio      : "Figuring out how to tech: Linux and Android" # markdown is allowed
   location : "Hamburg, Germany"
   links:
