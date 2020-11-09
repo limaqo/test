@@ -23,3 +23,5 @@ docs:
     children:
       - title: "Installation"
         url: /kubuntu-setup
+      - title: "Applications"
+        url: /applications
