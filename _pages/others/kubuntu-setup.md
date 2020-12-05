@@ -149,3 +149,12 @@ If you want a Windows-like screenshot hotkey, this is how you can do it:
 * open [**_System Settings_**](https://userbase.kde.org/System_Settings)
 * **_Workspace_** section → **_Workspace Behavior_** tab → **_General Behavior_** tab (preselected)
   * Animation speed: Instant
+
+# Connect a network-attached storage (NAS)
+* open KDE Plasma's file manager [**_Dolphin_**](https://userbase.kde.org/Dolphin)
+* right click on **_Remote_** section in the left ribbon → **_Add Entry..._**
+  * Label: &lt;_any name_&gt;
+  * Location: &lt;_protocol_&gt;:/&lt;_IP_&gt;/&lt;_path_&gt;
+    * Protocol: e.g. [smb](https://en.wikipedia.org/wiki/Server_Message_Block)
+    * IP: Probably 192.168.XXX.XXX if inside a [private IPv4 class C network](https://en.wikipedia.org/wiki/Private_network) (ToDo: check if term is correct)
+    * Path: (optional) If you don't want to integrate the root directory of the NAS.
